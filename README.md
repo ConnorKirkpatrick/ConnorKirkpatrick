@@ -1,7 +1,2 @@
 Hi there,
-I'm Connor, a fourth year computer science masters student interested in cybersecurity, drones and all other things to do with tech
-
-Project status remarks:
- *  Active: Active development is ongoing
- *  Backburn: Active development has been paused but planned work still exists
- *  Retired: All planned work has been completed
+I'm Connor, a software engineer with a keen intrest into cyber security, hardware, infrastructre, and languages such as C, C++, Python, and Java
